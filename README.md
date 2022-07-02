@@ -7,7 +7,9 @@ Content  This is "Sample Insurance Claim Prediction Dataset" which based on "Med
 **steps**: average walking steps per day of policyholder  
 **children**: number of children / dependents of policyholder  
 **smoker**: smoking state of policyholder (non-smoke=0;smoker=1)  
-**region**: the residential area of policyholder in the US (northeast=0, northwest=1, southeast=2, southwest=3) charges: individual medical costs billed by health insurance insuranceclaim: yes=1, no=0
+**region**: the residential area of policyholder in the US (northeast=0, northwest=1, southeast=2, southwest=3)
+**charges**: individual medical costs billed by health insurance
+**insuranceclaim**: yes=1, no=0
 
 # Страховка претензия прогноз
 Содержание Это «Образец набора данных для прогнозирования страховых случаев», который основан на «Личных наборах данных о медицинских расходах» для обновления выборочного значения вверху.  
@@ -18,4 +20,6 @@ Content  This is "Sample Insurance Claim Prediction Dataset" which based on "Med
 **steps**: среднее количество шагов в день для страхователя  
 **children**: количество детей/иждивенцев страхователя  
 **smoker**: состояние курения страхователя (не курящий=0;курящий=1)  
-**region**: жилой район держателя полиса в США (северо-восток=0, северо-запад=1, юго-восток=2, юго-запад=3) сборы: индивидуальные медицинские расходы, оплачиваемые медицинским страхованием.
+**region**: жилой район держателя полиса в США (северо-восток=0, северо-запад=1, юго-восток=2, юго-запад=3)  
+**charges**: индивидуальные медицинские расходы, оплачиваемые медицинским страхованием  
+**insuranceclaim**: yes=1, no=0
