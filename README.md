@@ -1,5 +1,5 @@
 # insurance-claim-prediction
-Content  This is "Sample Insurance Claim Prediction Dataset" which based on "[Medical Cost Personal Datasets][1]" to update sample value on top. 
+Content  This is "Sample Insurance Claim Prediction Dataset" which based on "Medical Cost Personal Datasets" to update sample value on top.  
 **age**: age of policyholder  
 **sex**: gender of policy holder (female=0, male=1)  
 **bmi**: Body mass index, providing an understanding of body, weights that are relatively high or low relative to height, objective index of body weight (kg/m^2) using the ratio of height to weight, ideally 18.5 to 25  
