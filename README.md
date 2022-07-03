@@ -1,5 +1,4 @@
 # Insurance claim prediction
-Content  This is "Sample Insurance Claim Prediction Dataset" which based on "Medical Cost Personal Datasets" to update sample value on top.  
 
 **age**: age of policyholder  
 **sex**: gender of policy holder (female=0, male=1)  
@@ -11,8 +10,10 @@ Content  This is "Sample Insurance Claim Prediction Dataset" which based on "Med
 **charges**: individual medical costs billed by health insurance
 **insuranceclaim**: yes=1, no=0
 
-# Страховка претензия прогноз
-Содержание Это «Образец набора данных для прогнозирования страховых случаев», который основан на «Личных наборах данных о медицинских расходах» для обновления выборочного значения вверху.  
+## Goal
+Use the decision tree method and neural networks to solve this problem. And find out which one works best.
+
+# Предсказание отказа в стразовке 
 
 **age**: возраст страхователя  
 **sex**: пол держателя полиса (женщина=0, мужчина=1)  
@@ -23,3 +24,6 @@ Content  This is "Sample Insurance Claim Prediction Dataset" which based on "Med
 **region**: жилой район держателя полиса в США (северо-восток=0, северо-запад=1, юго-восток=2, юго-запад=3)  
 **charges**: индивидуальные медицинские расходы, оплачиваемые медицинским страхованием  
 **insuranceclaim**: yes=1, no=0
+
+## Цель
+Использовать метод решающих деревьев и нейронные сети для решения этой задачи. И узнать какой из них работает лучше.
