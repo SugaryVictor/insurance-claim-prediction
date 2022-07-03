@@ -13,7 +13,7 @@
 ## Goal
 Use the decision tree method and neural networks to solve this problem. And find out which one works best.
 
-# Предсказание отказа в стразовке 
+# Предсказание отказа в страховке 
 
 **age**: возраст страхователя  
 **sex**: пол держателя полиса (женщина=0, мужчина=1)  
