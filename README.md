@@ -1,5 +1,4 @@
 # Insurance claim prediction
-Content  This is "Sample Insurance Claim Prediction Dataset" which based on "Medical Cost Personal Datasets" to update sample value on top.  
 
 **age**: age of policyholder  
 **sex**: gender of policy holder (female=0, male=1)  
@@ -12,7 +11,6 @@ Content  This is "Sample Insurance Claim Prediction Dataset" which based on "Med
 **insuranceclaim**: yes=1, no=0
 
 # Страховка претензия прогноз
-Содержание Это «Образец набора данных для прогнозирования страховых случаев», который основан на «Личных наборах данных о медицинских расходах» для обновления выборочного значения вверху.  
 
 **age**: возраст страхователя  
 **sex**: пол держателя полиса (женщина=0, мужчина=1)  
