@@ -13,6 +13,9 @@
 ## Goal
 Use the decision tree method and neural networks to solve this problem. And find out which one works best.
 
+ ## Result 
+ I'm not long in data science and machine learning, so I'm not sure about the accuracy of the predictions. For reasons unknown to me (my qualifications), the neural network turned out to be less hunting than tree selection (as much as 3%!). After this time, tree solutions learned faster and had a more understandable structure, in contrast to the neural network.
+
 # Предсказание отказа в страховке 
 
 **age**: возраст страхователя  
@@ -27,3 +30,6 @@ Use the decision tree method and neural networks to solve this problem. And find
 
 ## Цель
 Использовать метод решающих деревьев и нейронные сети для решения этой задачи. И узнать какой из них работает лучше.
+
+##  Итог
+Я недолго в  Data Science и машинном обучении, поэтмоу не уверен в точности предсказаний. По непонятным мне причинам(моей компетенции) нейронная сеть вышла менее точной чем дерево решений(целых 3%!). По мимо этого, дерево решений училось быстрее и имело более понятную структуру, в отличии от нейронной сети.
